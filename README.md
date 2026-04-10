@@ -1,6 +1,6 @@
 # 💜 수아's Award-Winning Room Folio 💜
 > A 3D interactive WebGL portfolio — explore a virtual room built with Three.js, custom GLSL shaders, GSAP animations, and spatial audio.
-**[Live site](http://sooahs-room-folio.com/)**
+**[Live site](https://sooahkimsfolio-five.vercel.app/)**
 
 This repo contains code of 수아's Room Folio. If you're interested, learn how to create a porfolio like this [here]()!! It's beginner friendly!
 ---
